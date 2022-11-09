@@ -1,0 +1,107 @@
+﻿value,name,price,price2,subcategory,index,tags,allergies,style,descr
+APP,Lobster Miso Soup,$5.50 ,,Starter,1,,GLU,,"Lobster tail in a traditional miso soup, shimeji mushroom, seaweed, green onions"
+APP,Edamame,$5.50 ,,Starter,2,,,,Soybean with sea salt
+APP,Ke Bun,$10 ,,Starter,3,,GLU,,"Slow-braised pork chashu, mayo, pickles, spring mix, served with steamed white bun"
+APP,Raw Tako Wasabi,$6 ,,Starter,4,,,,Chopped octopus and pickles marinated in wasabi flavoured sauce
+APP,Kimchi Sashimi,$8 ,,Starter,5,,GLU,,"Salmon, tako, tuna, tomato, cucumber, avocado, sesame seeds, kimchi sauce"
+APP,Seaweed Salad,$8.50 ,,Starter,6,,GLU,,"Seaweed salad, spring mix, tomato, avocado, cucmber, and sesame dressing"
+APP,Alberta Beef Tataki,$11 ,,Starter,7,,GLU,,"Sliced beef, dried garlic chips, spicy daikon, green onion, spring mix, served with ponzu sauce."
+APP,Yellow Tail & Ahi Tuna Carpaccio,$11 ,,Starter,8,,,,"Yellowtail and Ahi tuna, dried onion, homemade carpaccio sauce."
+APP,West Coast,Daily Price,,Oyster,1,,,,
+APP,East Coast,Daily Price,,Oyster,2,,,,
+APP,Japanese,Daily Price,,Oyster,3,,,,
+APP,Jumbo Chicken Karaage,$10 ,,Tempura/Deep Fried,1,,GLU,,Deep fried boneless marinated chicken battered in karaage flour and served with mayo
+APP,Truffle Shrimp Tempura,$8 ,,Tempura/Deep Fried,2,,GLU,,"Deep fried lightly-battered shrimp, seasoned with truffle oil and lemon."
+APP,Calamari Tempura,$8 ,,Tempura/Deep Fried,3,,GLU,,"Deep fried lightly-battered calamari, served with spicy mayo and lemon"
+APP,Fried Shrimp Cakes,$9 ,,Tempura/Deep Fried,4,,GLU,,"Deep fried homemade shrimp cakes, spring mix, served with sweet ginger sauce"
+APP,Sweet Ginger Shrimp,$9.50 ,,Tempura/Deep Fried,5,,GLU,,"Black tiger shrimp tempura served with sweet ginger sauce, green onion, sesame seed."
+APP,Crispy Gyoza,$6 ,,Tempura/Deep Fried,6,,GLU,,Deep fried pork and vegetable dumplings
+APP,Deep Fried Mochi,$8 ,,Tempura/Deep Fried,7,,GLU,,Deep fried sticky rice with sweet soy sauce and seaweed
+APP,Crispy Spring Roll,$8 ,,Tempura/Deep Fried,8,,GLU,,"Deep fried spring rolls, spring mix, served with sweet ginger sauce"
+SS,Salmon,$4.50 ,$7.00 ,Nigiri/Sashimi,1,,,,
+SS,Tuna,$4.50 ,$7.00 ,Nigiri/Sashimi,2,,,,
+SS,Shrimp,$4.50 ,$7.00 ,Nigiri/Sashimi,3,,,,
+SS,Tobiko,$5.50 ,$8.00 ,Nigiri/Sashimi,4,,,,
+SS,Special Scallop,$5.50 ,$8.00 ,Nigiri/Sashimi,5,,,,
+SS,Tako,$5.50 ,$8.00 ,Nigiri/Sashimi,6,,,,
+SS,Saba,$5.50 ,$8.00 ,Nigiri/Sashimi,7,,,,
+SS,Wild Salmon,$6.50 ,$9.00 ,Nigiri/Sashimi,8,,,,
+SS,Scallop,$6.50 ,$9.00 ,Nigiri/Sashimi,9,,,,
+SS,Ahi Tuna,$7.50 ,$10.00 ,Nigiri/Sashimi,10,,,,
+SS,Yellow Tail,$7.50 ,$10.00 ,Nigiri/Sashimi,11,,,,
+SS,Toro,$7.50 ,$10.00 ,Nigiri/Sashimi,12,,,,
+SS,Anago,$7.50 ,N/A,Nigiri/Sashimi,13,,,,
+SS,Chefs Choice Sushi,$22.00 ,$34.00 ,Chefs Choice,1,,,,
+SS,Chefs Choice Sashimi,$26.00 ,$38.00 ,Chefs Choice,2,,,,
+SS,Mango Roll,$13 ,,Special Roll (8pc),1,,,,"Shrimp tempura, mango, avocado, tobiko, unagi sauce, mayo and mango sauce"
+SS,Angus Beef Roll,$13 ,,Special Roll (8pc),2,,GLUSOY,,"Seared angus beef with red wine teriyaki sauce, yam, asparagus, sesame seeds, mayo"
+SS,Spicy Crunch Roll,$13 ,,Special Roll (8pc),3,,GLUSOY,,"Calamari tempura, cucumber, tobiko, spicy crunch, spicy mayo, tobiko, sesame seeds"
+SS,Signature Truffle Prawn Roll,$13 ,,Special Roll (8pc),4,,GLUSOY,,"Truffle shrimp tempura, mayo, unagi sauce, tobiko, wild salmon, avocado, green crunch"
+SS,Rainbow Roll,$13 ,,Special Roll (8pc),5,,GLUSOY,,"Crab meat, avocado, cucumber, tuna, salmon, shrimp, green crunch, yellow crunch, tobiko, unagi sauce"
+SS,Seared Tuna Roll,$13 ,,Special Roll (8pc),6,,GLUSOY,,"Crab meat, avocado, cucumber, seared tuna, spicy mayo, spicy miso, jalapeno"
+SS,Seared Salmon Roll,$13 ,,Special Roll (8pc),7,,GLUSOY,,"Crab meat, avocado, cucumber, seared salmon, spicy mayo, spicy miso, jalapeno"
+SS,Geisha Roll,$13 ,,Special Roll (8pc),8,,,,"Crab meat, avocado, cucumber, mango, shrimp on top with yuzu mayo sauce"
+SS,Creamy Scallop Roll,$14 ,,Special Roll (8pc),9,,,,"Crab meat, avocado, cucumber, yuzu mayo scallop, unagi sauce"
+SS,Dragon Roll,$15 ,,Special Roll (8pc),10,,,,"Shrimp tempura, mayo, tobiko, cucumber, avocado, anago (salt-water eel), unagi sauce, sesame seeds"
+SS,Lobster Roll,$17 ,,Special Roll (8pc),11,,,,"Lobster tail tempura, tobiko, mayo, unagi sauce, cucumber, avocado, green crunch, spicy mayo, sesame seeds"
+SS,Cucumber Maki,$4.50 ,,Maki Roll (6pc),1,,,,Cucmber wrapped in rice and seaweed
+SS,Salmon Maki,$4.50 ,,Maki Roll (6pc),2,,,,Salmon wrapped in rice and seaweed
+SS,Avocado Maki,$4.50 ,,Maki Roll (6pc),3,,,,Avocado wrapped in rice and seaweed
+SS,Tuna Maki,$4.50 ,,Maki Roll (6pc),4,,,,Tuna wrapped in rice and seaweed
+SS,Volcano Calamari Roll,$4.50 ,,Half Regular Roll (4pc),1,,,,"Spring mix, spicy tuna, calamari tempura, spicy mayo, sesame seeds"
+SS,Prawn Dynamite Roll,$4.50 ,,Half Regular Roll (4pc),2,,,,"Mayo, tobiko, cucumber, avocado, shrimp tempura, sesame seeds"
+SS,California Roll,$4.50 ,,Half Regular Roll (4pc),3,,,,"Cucumber, crab meat, avocado, sesame seeds"
+SS,Yam Roll,$4.50 ,,Half Regular Roll (4pc),4,,,,"Mayo, yam-fries, avocado, sesame seeds"
+SS,Spicy Tuna Roll,$4.50 ,,Half Regular Roll (4pc),5,,,,"Cucumber, chopped tuna mixed with spicy mayo and chili pepper, sesame seeds"
+SS,Spicy Salmon Roll,$4.50 ,,Half Regular Roll (4pc),6,,,,"Cucumber, chopped salmon mixed with spicy mayo and chili pepper, sesame seeds"
+SS,California Oishi Sushi,$8.00 ,,Oishi Sushi (6pc),1,,,,"Crab meat, cucumber, avocado, mayo, sesame seeds"
+SS,Spicy Tuna Oishi Sushi,$8.00 ,,Oishi Sushi (6pc),2,,,,"Spicy tuna, cucumber, avocado, jalapeno, spicy mayo"
+SS,Spicy Salmon Oishi Sushi,$8.00 ,,Oishi Sushi (6pc),3,,,,"Spicy salmon, cucumber, avocado, jalapeno, spicy mayo"
+SS,Philadelphia Oishi Sushi,$8.50 ,,Oishi Sushi (6pc),4,,,,"wild salmon, cream cheese, cucumber, sesame seeds"
+SS,Wild Salmon Oishi,$8.50 ,,Oishi Sushi (6pc),5,,,,"wild salmon, jalapeno, miso sauce"
+SS,Seared Saba Oishi Sushi,$8.50 ,,Oishi Sushi (6pc),6,,,,"seared mackerel, ginger, green onion"
+CSG,Chicken Teriyaki,$8.00 ,,Meat,1,,,,"8oz chicken, onion, teriyaki sauce"
+CSG,Beef Short Ribs,$15.00 ,,Meat,2,,,,"Flanken short ribs marinated with homemade kalbi sauce, spring mix, baby arugula"
+CSG,Pork Back Rib,$16.00 ,,Meat,3,,,,"Half size pork back rib braised in sauteed balsamic vegetable stock. Served with baby arugula, dried garlic chips, black pepper sauce"
+CSG,Beef Finger Bone,$20.00 ,,Meat,4,,,,"Jumbo beef rib braised in sauteed balsamic vegetable stock. Served with baby arugula, dried garlic chips, black pepper sauce"
+CSG,Ikayaki,$12.00 ,,Seafood,1,,,,"Grilled whole squid with teriyaki sauce, mayo on side"
+CSG,Saba (Mackerel),$11.00 ,,Seafood,2,,,,"Grilled mackerel, green onion, radish, served with ponzu sauce"
+CSG,Hokke (Japanese Mackerel),$24.00 ,,Seafood,3,,,,"Grilled atka mackerel, lemon, green onion, radish, served with ponzu sauce"
+CSG,Hamachi Kama,$18.00 ,,Seafood,4,,,,"Grilled yelloy tail's collar, lemon, daikon, green onion, served with ponzu sauce"
+CSG,Miso Black Cod,$14.00 ,,Seafood,5,,,,"Sweet miso marinated black cod, grilled and served with mayo and lemon."
+CSG,Teriyaki Lemon Okra,$7.50 ,,Vegetable,1,,,,"Stir fried okra, with teriyaki sauce"
+CSG,Spicy Miso Zucchini,$7.50 ,,Vegetable,2,,,,"Grilled Zucchini, spicy miso sauce"
+CSG,Roasted Garlic Broccolini,$7.50 ,,Vegetable,3,,,,"Grilled broccolini, roasted garlic pepper, served with dried garlic chips"
+CSG,Grilled Asparagus,$7.50 ,,Vegetable,4,,,,"Grilled asparagus, seafood sauce, lemon"
+CSG,Japanese Wagyu Steak,$48.00 ,,Stone Grill,1,,,,4oz stone grilled japanese wagyu ribeye served with magic steak sauce and chimichurri sauce
+CSG,Rockin' New Zealand Lamb,$18.00 ,,Stone Grill,2,,,,3 pieces of stone grilled lamb served with two of our original sauces
+CSG,Rockin' Duck Chop,$18.00 ,,Stone Grill,3,,,,3 pieces of stone grilled duck served with two of our original sauces
+CSG,Rockin' Angus Beef,$22.00 ,,Stone Grill,4,,,,8oz stone-grilled angus beef served with two of our original sauces
+CSG,Seafood Fried Rice,$12.00 ,,Stone Grill,5,,,,"Seafood garlic fried rice in a hot stone bowl served with an egg, green onions and dried garlic chips"
+YAK,Momo,$2.60 ,,Chicken Skewers,1,,,,Chicken Thighs
+YAK,Cheese Yaki,$2.80 ,,Chicken Skewers,2,,,,Momo with cheese
+YAK,Shiso Maki,$2.90 ,,Chicken Skewers,3,,,,Momo with shiso leaf
+YAK,Negima,$2.60 ,,Chicken Skewers,4,,,,Momo with green onion
+YAK,Hatsu,$2.60 ,,Chicken Skewers,5,,,,Chicken Heart
+YAK,Sunagimo,$2.60 ,,Chicken Skewers,6,,,,Chicken Gizzard
+YAK,Kawa,$2.50 ,,Chicken Skewers,7,,,,Chicken Skin
+YAK,Teriyaki Tsukune,$2.90 ,,Chicken Skewers,8,,,,Chicken Meatball
+YAK,Shiso Tsukune,$2.90 ,,Chicken Skewers,9,,,,Chicken Meatball with shiso leaf
+YAK,P-Toro,$2.90 ,,Pork Skewers,1,,,,Pork belly with kimchi sauce
+YAK,P-Neck,$2.90 ,,Pork Skewers,2,,,,Pork neck with kimchi sauce
+YAK,Negi Maki,$2.60 ,,Pork Skewers,3,,,,Bacon wrapped green onion
+YAK,Uzura Maki,$2.60 ,,Pork Skewers,4,,,,Bacon wrapped quail egg
+YAK,Sausage,$3.80 ,,Pork Skewers,5,,,,Grilled pork sausage
+YAK,Gyu Tan,$2.90 ,,Beef Skewers,1,,,,Beef tongue
+YAK,Negi Tan,$3.30 ,,Beef Skewers,2,,,,"Beef tongue with green onion, daikon, ponzu sauce"
+YAK,Gyu Angus,$4.90 ,,Beef Skewers,3,,,,CAB angus beef with magic steak sauce
+YAK,Ebi,$4.90 ,,Seafood Skewers,1,,,,Black tiger shrimp (3pc)
+YAK,Unagi,$5.90 ,,Seafood Skewers,2,,,,Fresh water eel
+YAK,Hotate,$5.60 ,,Seafood Skewers,3,,,,Whole scallop with roe (2pc)
+YAK,Lobster Tail,$7.90 ,,Seafood Skewers,4,,,,Lobster tail with seafood sauce
+YAK,Butter Corn,$2.60 ,,Vegetable Skewers,1,,,,Sweet corn with butter
+NDL,Lobster Bisque Udon Soup,$18.00 ,,Udon,1,,,,"Creamy lobster bisque, real lobster meat, green onion, baby arugula, japanese thick udon noodle"
+NDL,Seafood Udon Soup,$12.00 ,,Udon,2,,,,"Seafood base japanese soup, shrimp, squid, scallop, green onion, japanese thick udon noodle"
+NDL,Seafood Yaki Udon,$12.00 ,,Udon,3,,,,"Shrimp, squid, scallops, shimeji mushroom, japanese thick udon noodle, stir fried with teriyaki sauce. Served with green onion, dry seaweed, sesame seeds"
+NDL,Smoked Duck Soba Soup,$12.00 ,,Soba,1,,,,"Seafood base japanese soup, smoked duck breast slices, green onion, hapanese thin soba noodle"
+NDL,Seafood Soba Noodle Soup,$12.00 ,,Soba,2,,,,"Seafood base japanese soup, shrimp, squid, scallop, green onion, japanese thick soba noodle"
