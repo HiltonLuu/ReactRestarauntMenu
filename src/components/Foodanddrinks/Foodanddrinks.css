@@ -1,0 +1,77 @@
+:root {
+    --black: #000000;
+    --white: #fff;
+    --yellow: #FFE135;
+    --red: #981C29;
+}
+
+table {
+    color: white;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    font-weight: bold;
+    border: solid var(--red) 10px;
+}
+
+td {
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+
+.subCat {
+    text-align: center;
+    background-color: var(--red);
+    color: var(--white);
+    padding: 15px;
+}
+
+.foodDisplay {
+    
+    display: grid;
+    color: var(--white);
+    grid-template-columns: repeat(3, 1fr);
+    margin-left: 10%;
+    margin-right: 10%;
+    grid-column-gap: 100px;
+}
+
+ul {
+    list-style: none;
+    
+}
+
+.foodItem {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: var(--white);
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+p {
+    margin-top: 8px;
+}
+
+.foodName {
+    font-weight: bold;
+    text-decoration-line: underline;
+    text-decoration-color: var(--white);
+}
+
+.price {
+    margin-left: 20px;
+}
+
+@media screen and (max-width: 1231px) {.foodDisplay{grid-template-columns: repeat(2, 1fr);}}
+@media screen and (max-width: 774px) {.foodDisplay{grid-template-columns: repeat(1, 1fr);}}

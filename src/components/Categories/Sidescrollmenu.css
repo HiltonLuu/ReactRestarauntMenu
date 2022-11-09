@@ -1,0 +1,51 @@
+:root {
+    --black: #000000;
+    --white: #fff;
+    --yellow: #FFE135;
+    --red: #981C29;
+}
+
+.sidescroll-menu {
+    background: var(--red);
+    height: 50px;
+    
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    font-size: 1.1rem;
+    border: 1px solid var(--red);
+    color: #000000;
+}
+
+.sidescroll-items {
+    display: flex;
+    justify-content:space-evenly;
+    list-style-type:none;
+    
+}
+
+.sidescroll-menu-links {
+    color: var(--white);
+    text-decoration: none;
+    padding: 0.5rem 1.2rem;
+    background: transparent;
+    border: 0;
+    font-size: 17px;
+    width: 100%;
+}
+
+.sidescroll-menu-links:hover {
+    color: var(--white);
+    background: black;
+    transition: all 0.2s ease;
+}
+
+@media screen and (max-width: 880px) { 
+     .sidescroll-menu {
+        overflow-x: auto;
+        overflow-y: hidden;
+        white-space: nowrap;
+        z-index: 3;
+    }
+
+}
