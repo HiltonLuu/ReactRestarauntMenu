@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.c76867c7.css",
-    "main.js": "/static/js/main.d06903c6.js",
-    "static/media/cropped-ke-logo-white.png": "/static/media/cropped-ke-logo-white.1cce97588dd52f8c0bbb.png",
-    "index.html": "/index.html",
-    "main.c76867c7.css.map": "/static/css/main.c76867c7.css.map",
-    "main.d06903c6.js.map": "/static/js/main.d06903c6.js.map"
+    "main.css": "/ReactRestaurantMenu/static/css/main.c76867c7.css",
+    "main.js": "/ReactRestaurantMenu/static/js/main.f27528bd.js",
+    "static/media/cropped-ke-logo-white.png": "/ReactRestaurantMenu/static/media/cropped-ke-logo-white.1cce97588dd52f8c0bbb.png",
+    "index.html": "/ReactRestaurantMenu/index.html",
+    "main.c76867c7.css.map": "/ReactRestaurantMenu/static/css/main.c76867c7.css.map",
+    "main.f27528bd.js.map": "/ReactRestaurantMenu/static/js/main.f27528bd.js.map"
   },
   "entrypoints": [
     "static/css/main.c76867c7.css",
-    "static/js/main.d06903c6.js"
+    "static/js/main.f27528bd.js"
   ]
 }
